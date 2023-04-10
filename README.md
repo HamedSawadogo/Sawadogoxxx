@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-Here are some ideas to get you started:
+  ### mes outils
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px" />
 
 - 🔭 je travaille actuelemment sur 
 - 🌱 j'apprends actuelement typescript
