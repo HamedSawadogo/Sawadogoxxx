@@ -1,6 +1,6 @@
 ### Hi there 👋
-  ### - 🌱 developpeur javascript
-  ###  mes outils
+### - 🌱 developpeur javascript
+###  mes outils
   <div style="display:flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="50px" height="50px" />
@@ -8,7 +8,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px" />
   </div>
-  ### autres compétences
+ ### autres compétences
    <div style="display:flex">
     
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="50px" height="50px" />
