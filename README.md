@@ -13,6 +13,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="50px" height="50px" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="50px" height="50px" />             
   </div>
+### actualy: 
 ### - 💬 I am a javascript and React js framework developer and freelancer
 ### - 🌱 I'm currently learning amazing things ...
 ### - 👯I am a student in software development and freelancers ...
