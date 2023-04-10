@@ -14,8 +14,8 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="50px" height="50px" />
                    
   </div>
- ### - 💬 I am a javascript and React js framework developer and freelancer
- ### - 🌱 I'm currently learning amazing things ...
- ### - 👯I am a student in software development and freelancers ...
- ### - ⚡ Fun fact : I'am DJ, Diver, Skateboarder and Surfer
- ### - 📫 How to reach me: Linkelin or email
+### - 💬 I am a javascript and React js framework developer and freelancer
+### - 🌱 I'm currently learning amazing things ...
+### - 👯I am a student in software development and freelancers ...
+### - ⚡ Fun fact : I'am DJ, Diver, Skateboarder and Surfer
+### - 📫 How to reach me: Linkelin or email
