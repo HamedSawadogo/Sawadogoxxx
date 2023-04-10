@@ -10,7 +10,7 @@
                   
  
   </div>
- ### autres compétences
+### autres compétences
    <div style="display:flex">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="50px" height="50px" />
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="50px" height="50px" />
