@@ -16,7 +16,8 @@
   </div>
 
 
-- 💬 Je suis developpeur Javascript Réact js|Rédux j'ai aussi des compétences en back-end Node Js ,Mongoose,Php,mysql,PostMan
-- 📫 me retrouver sur linkedin https://www.linkedin.com/in/sawadogo-hamed-4a4874267/
-- 😄 HamedCoder
-- ⚡ je souris beaucoup
+- 💬I am a javascript and React js framework developer and freelancer
+🌱 I'm currently learning amazing things ...
+👯I am a student in software development and freelancers ...
+⚡ Fun fact : I'am DJ, Diver, Skateboarder and Surfer
+📫 How to reach me: Linkelin or email
