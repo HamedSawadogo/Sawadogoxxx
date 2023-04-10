@@ -1,7 +1,13 @@
 ### Hi there 👋
 ### - 🌱 developpeur javascript
+### actualy: 
+### - 💬 I am a javascript and React js framework developer and freelancer
+### - 🌱 I'm currently learning amazing things ...
+### - 👯I am a student in software development and freelancers ...
+### - ⚡ Fun fact : I'am DJ, Diver, Skateboarder and Surfer
+### - 📫 How to reach me: Linkelin or email
 ###  mes outils
-  <div style="display:flex">
+ <div style="display:flex">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" height="50px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"  width="50px" height="50px" />
@@ -13,9 +19,3 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="50px" height="50px" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="50px" height="50px" />             
   </div>
-### actualy: 
-### - 💬 I am a javascript and React js framework developer and freelancer
-### - 🌱 I'm currently learning amazing things ...
-### - 👯I am a student in software development and freelancers ...
-### - ⚡ Fun fact : I'am DJ, Diver, Skateboarder and Surfer
-### - 📫 How to reach me: Linkelin or email
