@@ -12,19 +12,12 @@
   </div>
  ### autres compétences
    <div style="display:flex">
-    
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="50px" height="50px" />
-         
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="50px" height="50px" />
-  
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="50px" height="50px" />
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="50px" height="50px" />
-           
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="50px" height="50px" />
-          
-          
-  </div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"  width="50px" height="50px" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  width="50px" height="50px" />
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  width="50px" height="50px" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"  width="50px" height="50px" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  width="50px" height="50px" />
+ </div>
 
 - 💬 Je suis developpeur Javascript Réact js|Rédux j'ai aussi des compétences en back-end Node Js ,Mongoose,Php,mysql,PostMan
 - 📫 me retrouver sur linkedin https://www.linkedin.com/in/sawadogo-hamed-4a4874267/
