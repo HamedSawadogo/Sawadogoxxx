@@ -4,7 +4,7 @@
  - 💬 I am a javascript and React js framework developer and freelancer
  - 🌱 I'm currently learning amazing things ...
  - 👯I am a student in software development and freelancers ...
- - ⚡ Fun fact : I'am cyclist, Diver
+ - ⚡ Fun fact : I'am cyclist and Diver
  - 📫 How to reach me: Linkelin or email
 ###  mes outils
  <div style="display:flex">
