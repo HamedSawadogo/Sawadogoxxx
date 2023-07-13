@@ -1,8 +1,8 @@
 ### Hi there 👋
-### - 🌱 developpeur javascript
+### - 🌱 developpeur java/javascript
 ### actualy: 
- - 💬 I am a javascript and React js framework developer and freelancer
- - 🌱 I'm currently learning amazing things ...
+ - 💬 I am a javascript and React js framework developer
+ - 🌱 I'm currently learning Spring boot...
  - 👯I am a student in software development and freelancers ...
  - ⚡ Fun fact : I'am cyclist and Diver
  - 📫 How to reach me: Linkelin or email
