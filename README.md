@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 🌱 developpeur java/javascript
+### - 🌱 developpeur web && mobile java/javascript,flutter
 ### actualy: 
  - 💬 I am a javascript ,java and React js framework developer
  - 🌱 I'm currently learning Spring boot...
